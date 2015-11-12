@@ -1,6 +1,7 @@
-### Bio of Gunni Bär
+### Introduction
 
-         - Gunni Bär
-         - from Berlin
-         - likes to eat fish soup
-         - plays table soccer
+**Name:** Gunni Bär
+**Place:** Berlin
+**Favorite Meal:** fish soup
+**Favorite Hobby:** table soccer
+**Favorite Color:** blue
